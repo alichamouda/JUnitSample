@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Commons Email,org.apache.commons.mail,EmailException,42,8,0,0,14,4,5,2,5,2
+Commons Email,org.apache.commons.mail,EmailUtils,181,97,43,15,41,25,25,11,3,4
+Commons Email,org.apache.commons.mail,SimpleEmail,14,3,2,0,4,1,2,1,1,1
+Commons Email,org.apache.commons.mail,DefaultAuthenticator,13,0,0,0,4,0,2,0,2,0
+Commons Email,org.apache.commons.mail,Email,614,764,89,77,169,182,106,56,44,35
